@@ -4,12 +4,12 @@ My name is Dau, I am a senior student majoring in Software Engineering at UEH Un
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/losindau/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/losindau) or by Email: losindau75588@gmail.com
 
-<a href="https://github.com/losindau/InventoryManagementApp">
+<a show_owner="true" href="https://github.com/losindau/InventoryManagementApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img show_owner="true" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=InventoryManagementApp&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=InventoryManagementApp&theme=gruvbox" />
 </a>
 
-<a href="https://github.com/bao201102/BorisFurniture">
+<a show_owner="true" href="https://github.com/bao201102/BorisFurniture">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bao201102&repo=BorisFurniture&theme=dark" />
 </a>
