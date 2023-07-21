@@ -11,15 +11,15 @@ My name is Dau, I am a senior student majoring in Software Engineering at UEH Un
 
 <a href="https://github.com/bao201102/BorisFurniture">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bao201102&repo=BorisFurniture&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bao201102&repo=BorisFurniture&theme=dark&show_owner=true" />
 </a>
 
 <a href="https://github.com/Dua24/AppMobileClothes">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dua24&repo=AppMobileClothes&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dua24&repo=AppMobileClothes&theme=dark&show_owner=true" />
 </a>
 
 <a href="https://github.com/losindau/PhotoApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=PhotoApp&theme=gruvbox" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=PhotoApp&theme=gruvbox&show_owner=true" />
 </a>
