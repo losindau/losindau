@@ -2,7 +2,7 @@
 My name is Dau, I am a senior student majoring in Software Engineering at UEH University. I am interested in web application development and eager to enrich my technical knowledge and experience.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/losindau/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/losindau)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/losindau/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/losindau) [![Gmail](https://imgur.com/BzG8QoD) Gmail](losindau75588@gmail.com)
 
 <a href="https://github.com/losindau/InventoryManagementApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
