@@ -1,16 +1,25 @@
-### Hi there 👋
+### WELCOME TO MY PAGE 👋👋👋
+My name is Dau, I am a senior student majoring in Software Engineering at UEH University. I am interested in web application development and eager to enrich my technical knowledge and experience.<br>
+## 📫 How to reach me: 
 
-<!--
-**losindau/losindau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/losindau/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/losindau)
 
-Here are some ideas to get you started:
+<a href="https://github.com/losindau/InventoryManagementApp">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=InventoryManagementApp&theme=gruvbox" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/bao201102/BorisFurniture">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bao201102&repo=BorisFurniture&theme=dark" />
+</a>
+
+<a href="https://github.com/Dua24/AppMobileClothes">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dua24&repo=AppMobileClothes&theme=dark" />
+</a>
+
+<a href="https://github.com/losindau/PhotoApp">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=PhotoApp&theme=gruvbox" />
+</a>
