@@ -6,7 +6,7 @@ My name is Dau, I am a senior student majoring in Software Engineering at UEH Un
 
 <a href="https://github.com/losindau/InventoryManagementApp">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=InventoryManagementApp&theme=gruvbox" />
+  <img show_owner="true" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=InventoryManagementApp&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/bao201102/BorisFurniture">
