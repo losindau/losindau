@@ -4,9 +4,9 @@ My name is Dau, I am a senior student majoring in Software Engineering at UEH Un
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/losindau/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/losindau) or by Email: losindau75588@gmail.com
 
-<a href="https://github.com/losindau/InventoryManagementApp">
+<a href="https://github.com/losindau/Electrical-Maintenance-SaaS-App">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=InventoryManagementApp&theme=gruvbox&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=Electrical-Maintenance-SaaS-App&theme=gruvbox&show_owner=true" />
 </a>
 
 <a href="https://github.com/bao201102/BorisFurniture">
