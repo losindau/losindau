@@ -1,25 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Dau, I am a senior student majoring in Software Engineering at UEH University. I am interested in web application development and eager to enrich my technical knowledge and experience.<br>
+My name is Dau, and I hold a Bachelor's degree in Software Engineering from UEH University. Currently, I work as a .NET Software Engineer at FPT Software, where I excel in developing efficient solutions and have a strong passion for Full-stack development. I am committed to continuous self-learning and improvement, consistently embracing challenges to address real-world problems.<br>
 ### 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/losindau/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/losindau) or by Email: losindau75588@gmail.com
-
-<a href="https://github.com/losindau/SaaS-App">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=SaaS-App&theme=gruvbox&show_owner=true" />
-</a>
-
-<a href="https://github.com/bao201102/BorisFurniture">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=bao201102&repo=BorisFurniture&theme=dark&show_owner=true" />
-</a>
-
-<a href="https://github.com/Dua24/AppMobileClothes">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=Dua24&repo=AppMobileClothes&theme=dark&show_owner=true" />
-</a>
-
-<a href="https://github.com/losindau/PhotoApp">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=losindau&repo=PhotoApp&theme=gruvbox&show_owner=true" />
-</a>
